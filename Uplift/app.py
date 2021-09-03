@@ -2,9 +2,9 @@ from flask import Flask, render_template, request
 from sawo import createTemplate, verifyToken
 import json
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
+
+
 API_KEY = "67f7c7df-4430-49c7-ae39-1876732a708e"
 
 

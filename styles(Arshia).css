@@ -9,7 +9,7 @@
 
 .navbar
 {
-    background: inherit !important;
+    background-color: inherit !important;
     padding-left: 40px;
     padding-right: 40px;
 }

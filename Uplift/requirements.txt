@@ -1,0 +1,3 @@
+sawo==1.2.2
+pulp
+flask
